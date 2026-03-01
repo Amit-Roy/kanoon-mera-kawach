@@ -1,0 +1,20 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gavel head (rectangular block) -->
+  <rect x="60" y="20" width="80" height="40" rx="4" fill="#8B7355" opacity="0.6"/>
+  
+  <!-- Gavel face (front) -->
+  <rect x="55" y="30" width="90" height="30" rx="2" fill="#A0826D" opacity="0.7"/>
+  
+  <!-- Gavel handle -->
+  <rect x="92" y="60" width="16" height="90" rx="8" fill="#8B7355" opacity="0.5"/>
+  
+  <!-- Handle accent -->
+  <rect x="96" y="70" width="8" height="70" rx="4" fill="#A0826D" opacity="0.4"/>
+  
+  <!-- Base/Sounding block -->
+  <ellipse cx="100" cy="150" rx="45" ry="20" fill="#696969" opacity="0.5"/>
+  <rect x="60" y="145" width="80" height="15" rx="3" fill="#505050" opacity="0.6"/>
+  
+  <!-- Decorative lines for depth -->
+  <line x1="65" y1="35" x2="135" y2="35" stroke="#C0A080" stroke-width="1" opacity="0.3"/>
+</svg>
